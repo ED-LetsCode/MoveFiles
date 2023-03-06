@@ -1,0 +1,15 @@
+C:\Users\ebayram\source\repos\MoveFiles\MoveFiles\bin\Debug\net6.0\MoveFiles.exe
+C:\Users\ebayram\source\repos\MoveFiles\MoveFiles\bin\Debug\net6.0\MoveFiles.deps.json
+C:\Users\ebayram\source\repos\MoveFiles\MoveFiles\bin\Debug\net6.0\MoveFiles.runtimeconfig.json
+C:\Users\ebayram\source\repos\MoveFiles\MoveFiles\bin\Debug\net6.0\MoveFiles.dll
+C:\Users\ebayram\source\repos\MoveFiles\MoveFiles\bin\Debug\net6.0\MoveFiles.pdb
+C:\Users\ebayram\source\repos\MoveFiles\MoveFiles\obj\Debug\net6.0\MoveFiles.csproj.AssemblyReference.cache
+C:\Users\ebayram\source\repos\MoveFiles\MoveFiles\obj\Debug\net6.0\MoveFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebayram\source\repos\MoveFiles\MoveFiles\obj\Debug\net6.0\MoveFiles.AssemblyInfoInputs.cache
+C:\Users\ebayram\source\repos\MoveFiles\MoveFiles\obj\Debug\net6.0\MoveFiles.AssemblyInfo.cs
+C:\Users\ebayram\source\repos\MoveFiles\MoveFiles\obj\Debug\net6.0\MoveFiles.csproj.CoreCompileInputs.cache
+C:\Users\ebayram\source\repos\MoveFiles\MoveFiles\obj\Debug\net6.0\MoveFiles.dll
+C:\Users\ebayram\source\repos\MoveFiles\MoveFiles\obj\Debug\net6.0\refint\MoveFiles.dll
+C:\Users\ebayram\source\repos\MoveFiles\MoveFiles\obj\Debug\net6.0\MoveFiles.pdb
+C:\Users\ebayram\source\repos\MoveFiles\MoveFiles\obj\Debug\net6.0\MoveFiles.genruntimeconfig.cache
+C:\Users\ebayram\source\repos\MoveFiles\MoveFiles\obj\Debug\net6.0\ref\MoveFiles.dll
